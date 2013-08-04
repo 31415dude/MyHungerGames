@@ -44,7 +44,7 @@ import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class HungerGames extends JavaPlugin{
-	public static final String CMD_ADMIN = "hga", CMD_USER = "hg";
+	public static final String CMD_ADMIN = "qpa", CMD_USER = "qp";
 	private static HungerGames instance;
 	private static HGPermission perm;
 	private static Economy econ;
